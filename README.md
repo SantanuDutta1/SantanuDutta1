@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santanudutta1&label=Profile%20views&color=0e75b6&style=flat" alt="santanudutta1" /> </p>
 
 
-<img align="right" alt="Coding" width="400" src="data-analyst-sits-work-front-computer-device-showing-statistics-graphs-front-him-flat-style-cartoon-illustration-vector_610956-825.avif">
+<img align="right"  width="400" src="GitHub Header/data-analyst-sits-work-front-computer-device-showing-statistics-graphs-front-him-flat-style-cartoon-illustration-vector_610956-825 (1).avif">
 
 - 🌱 I’m currently learning **Data Analysis**
   
