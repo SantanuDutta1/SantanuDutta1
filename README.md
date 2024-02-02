@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **santanudutta4328@gmail.com**
 
-- 📄 Know about my experiences check  [my_Resume](https://github.com/SantanuDutta1/Portfolio/blob/main/SANTANU%20DUTTA_Resume_.pdf)
+- 📄 Know about my experiences check  [my_Resume](https://github.com/SantanuDutta1/SantanuDutta1/blob/main/My_Resume/SANTANU%20DUTTA_Resume_.pdf)
 
 - ⚡ Fun fact **I love to play cricket**
 
