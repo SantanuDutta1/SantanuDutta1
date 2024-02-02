@@ -1,4 +1,4 @@
-![MasterHead](github-header-image.png)
+![MasterHead]()
 
 
 
